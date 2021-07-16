@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Happiness is the key to a good life
 Use the left arrow to go back!
